@@ -1,0 +1,10 @@
+Confidence = 0.82783 Rule: 0<=number-of-pregnancies<5 -> 0<=serum-insulin<5
+Confidence = 0.856132 Rule: 0<=number-of-pregnancies<5 -> 21<=age<26
+Confidence = 0.923706 Rule: 10<=plasma-glucose-concentration<15 -> 0<=serum-insulin<5
+Confidence = 0.839674 Rule: 10<=diastolic-blood-pressure<15 -> 0<=serum-insulin<5
+Confidence = 0.952663 Rule: 0<=triceps-skin-fold-thickness<5 -> 0<=serum-insulin<5
+Confidence = 0.821138 Rule: 10<=body-mass-index<15 -> 0<=serum-insulin<5
+Confidence = 0.872137 Rule: 0.078<=diabetes-pedigree-function<5.078 -> 0<=serum-insulin<5
+Confidence = 0.898907 Rule: 0.078<=diabetes-pedigree-function<5.078, has-diabetes -> 0<=serum-insulin<5
+Confidence = 0.841772 Rule: 21<=age<26 -> 0<=serum-insulin<5
+Confidence = 0.878 Rule: has-diabetes -> 0<=serum-insulin<5
